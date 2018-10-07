@@ -1,0 +1,6 @@
+this is vi editor writing line1
+Now i am in line2
+this is line3
+Ok, line4
+finally line5 and I am done
+
